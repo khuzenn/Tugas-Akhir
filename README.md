@@ -38,6 +38,7 @@ Website ini dibangun menggunakan :
 ## Requirement
 - XAMPP 7.3.2
 - Codeigniter 3
+- phpMyAdmin
 
 ## Credit
 > Khuzainil Ardiansyah Syarif
